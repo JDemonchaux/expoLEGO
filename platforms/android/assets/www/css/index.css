@@ -52,15 +52,9 @@ body {
     right: 0px;
 }
 
-.btIn, .btOut {
+.btFull {
     width: 100%;
-}
-
-.btIn {
     margin-bottom: 2%;
-}
-
-.btOut {
 }
 
 p.small, p.small > span {

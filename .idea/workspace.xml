@@ -2,80 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d605f4d-9335-4af7-b07e-d2212b4fcf73" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CallbackContext.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CallbackContext.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/ConfigXmlParser.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/ConfigXmlParser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity$1.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity$2.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity$3.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity$4$1.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity$4$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity$4.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaArgs.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaArgs.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaBridge.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaBridge.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$1.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$2.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$3.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$4.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$5.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$6.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$7.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$8.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$9.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaInterfaceImpl.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaInterfaceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/outputs/aar/CordovaLib-debug.aar" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/outputs/aar/CordovaLib-debug.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaPlugin.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaPlugin.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaPreferences.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaPreferences.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaResourceApi.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaResourceApi.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$1.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$2.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$3.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$EngineClient$1$1.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$EngineClient$1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$EngineClient$1.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$EngineClient$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$EngineClient.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$EngineClient.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid$1.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid$2.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid$3.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid$4.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid$5.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/LOG.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/LOG.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$JsMessage.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$JsMessage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$LoadUrlBridgeMode$1.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$LoadUrlBridgeMode$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$LoadUrlBridgeMode.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$LoadUrlBridgeMode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode$1.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode$2.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/PluginManager.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/PluginManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/PluginResult$Status.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/PluginResult$Status.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/PluginResult.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/PluginResult.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemCookieManager.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemCookieManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient$1.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient$2.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient$3.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient$4.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient$5.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebViewClient.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebViewClient.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebViewEngine$1.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebViewEngine$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebViewEngine$2.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebViewEngine$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebViewEngine.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebViewEngine.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/Whitelist$URLPattern.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/Whitelist$URLPattern.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/Whitelist.class" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/Whitelist.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/bundles/debug/classes.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/bundles/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/bundles/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/generated/source/buildConfig/debug/org/apache/cordova/BuildConfig.java" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/generated/source/buildConfig/debug/org/apache/cordova/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/build.gradle" afterPath="$PROJECT_DIR$/platforms/android/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/packageResources/debug/merger.xml" afterPath="$PROJECT_DIR$/platforms/android/CordovaLib/build/intermediates/incremental/packageResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/settings.gradle" afterPath="$PROJECT_DIR$/platforms/android/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/css/index.css" afterPath="$PROJECT_DIR$/platforms/android/assets/www/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/index.css" afterPath="$PROJECT_DIR$/www/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/index.html" afterPath="$PROJECT_DIR$/platforms/android/assets/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/js/index.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/index.js" afterPath="$PROJECT_DIR$/www/js/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="expoLEGO.iws" />
@@ -100,11 +38,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.384615">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <marker date="1433429050514" expanded="true" signature="4533:4785" placeholder="..." />
+                <marker date="1433429050514" expanded="true" signature="4702:4785" placeholder="..." />
+                <marker date="1433429050514" expanded="true" signature="4758:4785" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="1" column="84" selection-start-line="1" selection-start-column="59" selection-end-line="1" selection-end-column="84" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="expoLEGO.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/expoLEGO.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.25123152">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -112,12 +94,35 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/vues/InWindow.html" />
+        <option value="$PROJECT_DIR$/www/vues/OutWindow.html" />
+        <option value="$PROJECT_DIR$/www/vues/MainFragment.html" />
+        <option value="$PROJECT_DIR$/www/vues/MainWindow.html" />
+        <option value="$PROJECT_DIR$/www/vues/header.html" />
+        <option value="$PROJECT_DIR$/www/vues/footer.html" />
+        <option value="$PROJECT_DIR$/www/js/index.js" />
+        <option value="$PROJECT_DIR$/www/css/index.css" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/config.xml" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
@@ -144,7 +149,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -160,9 +165,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -183,6 +185,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,6 +201,12 @@
     <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Prog\expoLEGO\www" />
+    </key>
   </component>
   <component name="RunManager" selected="PhoneGap/Cordova.BUILD">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -477,10 +488,10 @@
       <option name="myWorkDir" value="D:\Prog\expoLEGO" />
       <option name="myCommand" value="run" />
       <option name="myPassParent" value="true" />
-      <option name="myPlatform" value="android" />
+      <option name="myPlatform" value="wp8" />
       <option name="myExtraArgs" value="--verbose" />
       <option name="hasTarget" value="true" />
-      <option name="target" value="192.168.99.101:5555" />
+      <option name="target" value="" />
       <method />
     </configuration>
     <list size="1">
@@ -500,15 +511,18 @@
       <workItem from="1433414273245" duration="270000" />
       <workItem from="1433414568633" duration="322000" />
       <workItem from="1433414917153" duration="460000" />
+      <workItem from="1433417031400" duration="4614000" />
+      <workItem from="1433425267751" duration="2120000" />
+      <workItem from="1433428643614" duration="1128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1052000" />
+    <option name="totallyTimeSpent" value="8914000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1046" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -517,7 +531,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26339796" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -547,7 +561,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -555,10 +571,94 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1433429050514" expanded="true" signature="4533:4785" placeholder="..." />
+            <marker date="1433429050514" expanded="true" signature="4702:4785" placeholder="..." />
+            <marker date="1433429050514" expanded="true" signature="4758:4785" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1433429050514" expanded="true" signature="4533:4785" placeholder="..." />
+            <marker date="1433429050514" expanded="true" signature="4702:4785" placeholder="..." />
+            <marker date="1433429050514" expanded="true" signature="4758:4785" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="84" selection-start-line="1" selection-start-column="59" selection-end-line="1" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.384615">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1433429050514" expanded="true" signature="4533:4785" placeholder="..." />
+            <marker date="1433429050514" expanded="true" signature="4702:4785" placeholder="..." />
+            <marker date="1433429050514" expanded="true" signature="4758:4785" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expoLEGO.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25123152">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
           <folding />
         </state>
       </provider>
